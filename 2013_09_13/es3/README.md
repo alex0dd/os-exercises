@@ -1,4 +1,4 @@
-#Exercise 3
+# Exercise 3
 Given a directory, print the total number of characters(sum of the number of characters for each line) that appear on every single line.
 For example:
 ```

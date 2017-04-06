@@ -1,4 +1,4 @@
-#Exercise 3
+# Exercise 3
 Given a directory, output a file that will contain all the lengths and names of the files contained in the given directory, one file entry per output file row
 For example(if dirname contains two files):
 ```
