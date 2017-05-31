@@ -1,0 +1,3 @@
+hello: touch hello
+foo: touch foo
+foo: echo "never"
